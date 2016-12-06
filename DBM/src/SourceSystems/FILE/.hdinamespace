@@ -1,0 +1,5 @@
+{
+    "name":    "SRC.FILE",
+//    "cascade":   false,
+    "subfolder": "ignore"
+}
